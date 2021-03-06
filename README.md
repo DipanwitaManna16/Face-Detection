@@ -1,2 +1,2 @@
 # Face-Detection
-Face Detection using OpenCv
+Face Detection using Haar Cascades method .(OpenCV)
